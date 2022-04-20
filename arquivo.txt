@@ -1,0 +1,3 @@
+Lanche;Pizza de Calabresa;49.99
+Lanche;Hamburguer;39.99
+Bebida;Fanta Uva;9.99
